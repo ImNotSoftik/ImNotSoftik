@@ -1,16 +1,14 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Softik</h1>
 
-<!--
-**ImNotSoftik/ImNotSoftik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ImNotSoftik&label=Profile%20views&color=0e75b6&style=flat" alt="Softik" /> </p>
 
-Here are some ideas to get you started:
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ImNotSoftik" alt="Softik" /></a> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on **6g6s.org**
+
+
+- 👯 I’m looking to collaborate on **NeonPaper, ProximaExploitFixer**
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ImNotSoftik&show_icons=true&locale=en" alt="Softik" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ImNotSoftik&" alt="Softik" /></p>
