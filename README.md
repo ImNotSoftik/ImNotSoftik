@@ -6,9 +6,6 @@
 
 - 🔭 I’m currently working on **6g6s.org**
 
-
-- 👯 I’m looking to collaborate on **ProximaExploitFixer**
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ImNotSoftik&show_icons=true&locale=en" alt="Softik" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ImNotSoftik&" alt="Softik" /></p>
